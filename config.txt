@@ -1,0 +1,6 @@
+{
+  "prefix": "!",
+  "activityType": "PLAYING",
+  "token": "NjUyNTk0MDczOTUzMTA3OTk5.XeqtpA.APh-0Gg7U9dXhsrMDGq9hlAQ-Xc",
+  "serverInfo": ["fademain-gagrqq.cfx.re", 30120]
+}
